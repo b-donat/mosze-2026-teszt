@@ -22,5 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "Közös rész" <<std::endl;
     return 0;
 }
